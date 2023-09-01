@@ -67,3 +67,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.personal-data {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
